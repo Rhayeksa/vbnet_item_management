@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Customer\Customer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\CustomerDetail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\CustomerAdd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ItemIn\ItemInAdd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Supplier\Supplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ItemIn\ItemIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ItemOut\ItemOut.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Item\Item.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Supplier\SupplierAdd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Supplier\SupplierDetail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
